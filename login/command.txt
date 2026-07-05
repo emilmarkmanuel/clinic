@@ -1,0 +1,2 @@
+npm install next-auth@beta @auth/drizzle-adapter bcrypt-ts
+npm install --save-dev @types/bcryptjs
